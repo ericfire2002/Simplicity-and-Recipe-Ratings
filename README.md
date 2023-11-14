@@ -42,7 +42,7 @@ This is a of the number of minutes it takes to make each recipe. The distributio
 
 This is a distribution of the number of steps vs. average rating for each recipe. There seems to be a higher density of number of steps with lower ratings, than with the density of number of steps with high ratings.
 
-<iframe src="/Users/ericm/OneDrive/Documents/GitHub/Simplicity-and-Recipe-Ratings/assets/file_3.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="assets/file_3.html" width=800 height=600 frameBorder=0></iframe>
 
 This is a distribution of the number of minutes vs. average rating for each recipe. There seems to be a higher density of number of minutes with lower ratings, than with the density of number of minutes with high ratings.
 
