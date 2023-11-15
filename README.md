@@ -1,4 +1,4 @@
-# Recipe Quickness/Simplicity and Rating
+# Simplicity and Time in Recipe Ratings
 
 by: Eric Mei, Vivek Srinivasan
 
@@ -32,21 +32,21 @@ We get the recipes dataset and merge to get average rating per recipe. Then, we 
 
 This is a distribution of the number of steps it takes to make each recipe. The distribution is skewed right, with a majority values between 0 and 30 steps.
 
-<iframe src="assets/file_1.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="file_1.html" width=800 height=600 frameBorder=0></iframe>
 
 This is a distribution of the number of minutes it takes to make each recipe. The distribution is skewed right, with a majority of values between 0 and 150 minutes.
 
-<iframe src="assets/file_2.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="file_2.html" width=800 height=600 frameBorder=0></iframe>
 
 ### Bivariate Analysis
 
 This is a distribution of the number of steps vs. average rating for each recipe. There seems to be a higher density of number of steps with lower ratings, than with the density of number of steps with high ratings.
 
-<iframe src="assets/file_3.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="file_3.html" width=800 height=600 frameBorder=0></iframe>
 
 This is a distribution of the number of minutes vs. average rating for each recipe. There seems to be a higher density of number of minutes with lower ratings, than with the density of number of minutes with high ratings.
 
-<iframe src="assets/file_4.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="file_4.html" width=800 height=600 frameBorder=0></iframe>
 
 ---
 
