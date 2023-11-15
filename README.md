@@ -2,9 +2,7 @@
 
 by: Eric Mei, Vivek Srinivasan
 
----
-
-This is a project at UCSD for DSC 80. 
+--- 
 
 ## Introduction
 
