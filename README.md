@@ -32,21 +32,26 @@ We get the recipes dataset and merge to get average rating per recipe. Then, we 
 
 This is a distribution of the number of steps it takes to make each recipe. The distribution is skewed right, with a majority values between 0 and 30 steps.
 
-<iframe src="file_1.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="assets/fig_1.html" width=800 height=600 frameBorder=0></iframe>
+
+
+
 
 This is a distribution of the number of minutes it takes to make each recipe. The distribution is skewed right, with a majority of values between 0 and 150 minutes.
 
-<iframe src="file_2.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="assets/fig_2.html" width=800 height=600 frameBorder=0></iframe>
 
 ### Bivariate Analysis
 
 This is a distribution of the number of steps vs. average rating for each recipe. There seems to be a higher density of number of steps with lower ratings, than with the density of number of steps with high ratings.
 
-<iframe src="file_3.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="assets/fig_3.html" width=800 height=600 frameBorder=0></iframe>
+
+
 
 This is a distribution of the number of minutes vs. average rating for each recipe. There seems to be a higher density of number of minutes with lower ratings, than with the density of number of minutes with high ratings.
 
-<iframe src="file_4.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="assets/fig_4.html" width=800 height=600 frameBorder=0></iframe>
 
 ---
 
@@ -76,7 +81,7 @@ There are 3 columns with missing values. Only one column has more than 1 missing
 
 At a significance of 0.05, the descriptions are MAR based on the date the recipe was submitted. However, at a 0.01 significance, we cannot reject the null hypothesis and therefore we must label the data as MCAR. 
 
-<iframe src="assets/file_5.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="assets/fig_5.html" width=800 height=600 frameBorder=0></iframe>
 
 ## Hypothesis Testing
 
